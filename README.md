@@ -14,5 +14,19 @@
   <li>Jest</li>
 </ul>
  
+ ## Meus artigos :scream_cat:
  
- <p>obs: Meu github tem muita coisa legal, a primeiro momento pode parecer um pouco desorganizado, mais é que eu não paro de estudar :grin:<p>
+ * [Medium](https://medium.com/@ednilsoncardososantos)
+ * [Dev](https://dev.to/ednilsoncs)
+ 
+ ## Minhas redes socias :eyes:
+ 
+ * [Twitter](https://twitter.com/devnilson)
+ * [Instagram](https://www.instagram.com/_ednilsoncardoso)
+ * [Linkedin](https://www.linkedin.com/in/ednilsoncardosodossantos/)
+ 
+ <br/>
+ 
+obs: 
+Meu github tem muita coisa legal, a primeiro momento pode parecer <br/>
+um pouco desorganizado, mais é que eu não paro de estudar :grin:
