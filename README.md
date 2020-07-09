@@ -2,6 +2,7 @@
 <br/>
 <h3 align="center">Sou desenvolvedor mobile e web :iphone: :computer:.</h3>
 <h4 align="center">Todo dia aprendendo mais um pouco sobre o incrivel mundo do Javascript.</h4>
+<br/>
 
 ## Tecnologias do coração :heart:
 <ul>
