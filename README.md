@@ -1,3 +1,3 @@
 # Ednilson Cardoso dos Santos
-
-<p>Olá! Meu nome é Ednilson Cardoso dos Santos, Sou desenvolvedor web e mobile</P>
+<strong>Olá! :satisfied:</strong><br/>
+<p> Meu nome é <strong>Ednilson Cardoso dos Santos</strong>. Sou desenvolvedor web e mobile.</P>
