@@ -1,12 +1,12 @@
 <h1 align="center">Olá! Meu nome é Ednilson Cardoso dos Santos :satisfied:</h1><br/>
 <br/>
 <h3 align="center">Sou desenvolvedor mobile e web :iphone: :computer:.</h3>
-<h4 align="center">Todo dia aprendendo mais um pouco sobre o incrivel mundo do Javascript.</h4>
+<h4 align="center">Todo dia aprendendo mais um pouco sobre o incrível mundo do Javascript.</h4>
 <br/>
 
 ## Tecnologias do coração :heart:
 <ul>
-  <li style={{"list-style: none;"}}>Javascript</li>
+  <li>Javascript</li>
   <li>React Native</li>
   <li>ReactJS</li> 
   <li>Node.JS</li>
