@@ -1,7 +1,3 @@
 # Ednilson Cardoso dos Santos
 
-## Experiências:
-
-## Tecnologias que sou apaixonado:
-
-## Meus Hobbis:
+<p>Olá! Meu nome é Ednilson Cardoso dos Santos, Sou desenvolvedor web e mobile</P>
