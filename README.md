@@ -29,4 +29,4 @@
  
 obs: 
 Meu github tem muita coisa legal, a primeiro momento pode parecer <br/>
-um pouco desorganizado, mais é que eu não paro de estudar :grin:
+um pouco desorganizado, mas é que eu não paro de estudar :grin:
