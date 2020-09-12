@@ -21,7 +21,7 @@
  
  ## Minhas redes socias :eyes:
  
- * [Twitter](https://twitter.com/devnilson)
+ * [Twitter](https://twitter.com/Ednilson_C_S)
  * [Instagram](https://www.instagram.com/_ednilsoncardoso)
  * [Linkedin](https://www.linkedin.com/in/ednilsoncardosodossantos/)
  
