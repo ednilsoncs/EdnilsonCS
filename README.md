@@ -1,32 +1,38 @@
-<h1 align="center">Olá! Meu nome é Ednilson Cardoso dos Santos :satisfied:</h1><br/>
+
+<h1 align="center">Hello! I'm Ednilson Cardoso dos Santos :satisfied:</h1><br/>
 <br/>
-<h3 align="center">Sou desenvolvedor mobile e web :iphone: :computer:.</h3>
-<h4 align="center">Todo dia aprendendo mais um pouco sobre o incrível mundo do Javascript.</h4>
+<h3 align="center">I am a mobile and web developer :iphone: :computer:.</h3>
+<h4 align="center">Every day, I learn a bit more about the amazing world of JavaScript.</h4>
 <br/>
 
-## Tecnologias do coração :heart:
+## Favorite Technologies :heart:
 <ul>
-  <li>Javascript</li>
+  <li>JavaScript</li>
   <li>React Native</li>
   <li>ReactJS</li> 
-  <li>Node.JS</li>
+  <li>Node.js</li>
   <li>Express</li>
   <li>Jest</li>
 </ul>
- 
- ## Meus artigos :scream_cat:
- 
- * [Medium](https://medium.com/@ednilsoncardososantos)
- * [Dev](https://dev.to/ednilsoncs)
- 
- ## Minhas redes socias :eyes:
- 
- * [Twitter](https://twitter.com/Ednilson_C_S)
- * [Instagram](https://www.instagram.com/_ednilsoncardoso)
- * [Linkedin](https://www.linkedin.com/in/ednilsoncardosodossantos/)
- 
- <br/>
- 
-obs: 
-Meu github tem muita coisa legal, a primeiro momento pode parecer <br/>
-um pouco desorganizado, mas é que eu não paro de estudar :grin:
+
+## Languages :earth_americas:
+<ul> 
+ <li>🇧🇷 Portuguese: Native Speaker</li>
+ <li>🇺🇸 English: Advanced/Fluent</li> 
+</ul>
+
+
+## My Articles :scream_cat:
+
+* [Medium](https://medium.com/@ednilsoncardososantos)  
+* [Dev](https://dev.to/ednilsoncs)  
+
+## Social Media :eyes:
+
+* [Twitter](https://twitter.com/Ednilson_C_S)  
+* [Instagram](https://www.instagram.com/_ednilsoncardoso)  
+* [LinkedIn](https://www.linkedin.com/in/ednilsoncardosodossantos/)  
+
+---
+
+Feel free to explore my GitHub! It’s filled with many interesting projects and experiments. :grin:
