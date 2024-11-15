@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello! I'm Ednilson Cardoso dos Santos :satisfied:</h1><br/>
 <br/>
-<h3 align="center">I am a mobile and web developer :iphone: :computer:.</h3>
+<h3 align="center">I am a software engineer with extensive experience in mobile and web development :iphone: :computer:.</h3>
 <h4 align="center">Every day, I learn a bit more about the amazing world of JavaScript.</h4>
 <br/>
 
@@ -24,13 +24,12 @@
 
 ## My Articles :scream_cat:
 
-* [Medium](https://medium.com/@ednilsoncardososantos)  
+* [Medium](https://medium.com/@ednilsoncs)  
 * [Dev](https://dev.to/ednilsoncs)  
 
 ## Social Media :eyes:
 
-* [Twitter](https://twitter.com/Ednilson_C_S)  
-* [Instagram](https://www.instagram.com/_ednilsoncardoso)  
+* [Instagram](https://www.instagram.com/ednilsoncss/)  
 * [LinkedIn](https://www.linkedin.com/in/ednilsoncardosodossantos/)  
 
 ---
